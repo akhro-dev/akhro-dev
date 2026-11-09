@@ -1,1 +1,1 @@
-[![Monkeytype Stats](https://monkeytype-readme.vercel.app/api/badge?username=Ahkro)](https://monkeytype.com/profile/Ahkro)# Ahkro
+[![Monkeytype Stats](https://monkeytype-readme.vercel.app/api?username=Ahkro)](https://monkeytype.com/profile/Ahkro)
